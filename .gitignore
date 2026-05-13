@@ -1,0 +1,11 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Dữ liệu và log
+data/
+*.csv
+*.xlsx
+
+# Python temp
+__pycache__/
