@@ -1,0 +1,24 @@
+# 🏆 Project Demonus - Finnovative Hackathon
+
+**Thành tích:** Bán kết (Semi-finalist) cuộc thi Finnovative Hackathon 2026.
+
+## 🌟 Giới thiệu
+Dự án **Demonus** được phát triển nhằm giải quyết bài toán [Điền tên bài toán của cuộc thi, ví dụ: Phân tích hành vi người dùng tài chính]. Chúng tôi sử dụng các kỹ thuật phân tích dữ liệu để đưa ra giải pháp tối ưu cho [đối tượng khách hàng].
+
+## 📊 Các tính năng chính
+- Phân tích và truy vấn dữ liệu thị trường tài chính (Bitcoin, HPG, FPT, VIC).
+- Xây dựng mô hình dự báo/phân loại dựa trên [tên thuật toán bạn dùng trong notebook].
+- Báo cáo nghiên cứu chi tiết về giải pháp Fintech tiềm năng.
+
+## 🛠 Công nghệ sử dụng
+- **Ngôn ngữ:** Python (Jupyter Notebook).
+- **Thư viện:** Pandas, NumPy, Matplotlib, Scikit-learn...
+- **Báo cáo:** LaTeX/PDF.
+
+## 📁 Thành phần dự án
+- `Hackathon_Demonus.ipynb`: Toàn bộ mã nguồn phân tích và xây dựng mô hình.
+- `RESEACHER_DEMONUS_Report.pdf`: Báo cáo chi tiết về giải pháp và kết quả nghiên cứu.
+
+---
+**Team Demonus** - **Nguyễn Hà Quang Khắc Định** - Data Scientist & Researcher  
+- (Thêm tên các thành viên khác trong nhóm nếu bạn muốn)
